@@ -1,0 +1,20 @@
+{
+    "name": "fabrizioballiano/deferjavascripts",
+    "description": "Moves all your javascripts to the very end of your HTML (only on frontend) making search engines and speed metering tools happy.",
+    "authors": [
+        {
+            "name": "Fabrizio Balliano",
+            "email": "fabrizio@fabrizioballiano.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FabrizioBalliano\\DeferJavascripts\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
