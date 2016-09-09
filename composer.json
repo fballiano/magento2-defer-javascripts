@@ -1,6 +1,7 @@
 {
     "name": "fabrizioballiano/deferjavascripts",
     "description": "Moves all your javascripts to the very end of your HTML (only on frontend) making search engines and speed metering tools happy.",
+    "license": "OSL 3.0",
     "authors": [
         {
             "name": "Fabrizio Balliano",
