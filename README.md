@@ -22,6 +22,11 @@ Compatibility
 This module was developed on Magento 2.1.
 If you have a different version of Magento and the module is working please drop me a line so I can update this compatibility list.
 
+Known Issues
+------------
+
+The module can't detect scripts that have been commented out, they'll become active again.
+
 Support
 -------
 If you have any issues with this extension, open an issue on GitHub.
