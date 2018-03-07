@@ -11,15 +11,13 @@ This module is provided "as is" and I'll not be responsible for any data damage.
 Installation
 ------------
 
-Simply download the whole repository and copy everything to your Magento document root.
-Otherwise with modman:
 ```shell
 composer require fabrizioballiano/deferjavascripts
 ```
 
 Compatibility
 -------------
-This module was developed on Magento 2.1.
+This module was developed on Magento 2.1 and tested also on Magento 2.2 (up to 2.2.3).  
 If you have a different version of Magento and the module is working please drop me a line so I can update this compatibility list.
 
 Known Issues
