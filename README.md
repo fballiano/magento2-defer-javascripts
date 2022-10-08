@@ -12,7 +12,7 @@ Installation
 ------------
 
 ```shell
-composer require fabrizioballiano/deferjavascripts
+composer require fballiano/magento2-defer-javascripts
 ```
 
 Compatibility
