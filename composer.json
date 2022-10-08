@@ -1,5 +1,5 @@
 {
-    "name": "fabrizioballiano/deferjavascripts",
+    "name": "fballiano/magento2-defer-javascripts",
     "description": "Magento2 Defer Javascripts: moves all your javascripts to the very end of your HTML (only on frontend) making search engines and speed metering tools happy.",
     "license": "OSL 3.0",
     "keywords": ["magento2", "js", "javascript", "defer", "deferjs"],
@@ -10,7 +10,6 @@
             "email": "fabrizio@fabrizioballiano.com"
         }
     ],
-    "version": "1.0.0",
     "require": {},
     "autoload": {
         "psr-4": {
